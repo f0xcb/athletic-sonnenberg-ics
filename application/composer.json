@@ -1,0 +1,20 @@
+{
+  "name": "f0xcb/icalathletic",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "f0xcb"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "spatie/icalendar-generator": "^2.5"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}

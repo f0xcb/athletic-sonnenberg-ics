@@ -1,3 +1,5 @@
 /application/vendor/
 /application/composer.lock
 /application/src/spielplan.ics
+/application/src/Config/config.php
+/.idea/
